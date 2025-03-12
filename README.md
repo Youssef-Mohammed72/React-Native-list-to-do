@@ -17,8 +17,7 @@ A simple **React Native Task Manager App** that allows users to add, complete, a
 ## 📸 Screenshots
 ![image](https://github.com/user-attachments/assets/3684cc5e-def1-4bb4-ae01-7b0173546674)
 ![image](https://github.com/user-attachments/assets/53764fb9-224f-4890-a14f-226fa79da839)
-
-
+![image](https://github.com/user-attachments/assets/4361c024-088d-4307-a370-3d2e4196f203)
 
 ## 🎨 UI Design
 ### Colors Used:
@@ -65,6 +64,11 @@ npm install
 npm start
 ```
 (Use Expo Go to scan the QR code and test the app on your mobile device.)
+
+## 🟦 Run Online on Expo Snack
+
+You can also test the app directly on Expo's online compiler:
+[Run on Expo S](https://snack.expo.dev/@youssef_mohamed/to-do-list?platform=android)[nack](https://snack.expo.dev/@youssef_mohamed/to-do-list?platform=android)
 
 ## 📜 Code Highlights
 ### `App.js`
